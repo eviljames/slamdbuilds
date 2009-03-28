@@ -1,0 +1,10 @@
+digiKam is an advanced digital photo management application for linux.
+
+The people who inspired digiKam's design are the photographers like you who
+want to view, manage, edit, enhance, organize, tag, and share photographs
+under Linux systems.
+
+Most of the dependencies are already in slamd64-current, and as this is a
+KDE4 release, this package is intended to be built against that (as of
+17 March 2009).  The only one that was not available was JasPer, so there
+is a script provided for that under Libraries/
